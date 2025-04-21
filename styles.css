@@ -76,6 +76,7 @@ body {
 .bloque p {
     max-width: 600px;
     text-align: justify;
+    text-align: center;
     flex: 1;
 }
 
