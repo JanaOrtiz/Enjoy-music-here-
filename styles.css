@@ -223,6 +223,7 @@ body {
 
     p {
         font-size: 1em;
+        margin-bottom: 0;
     }
      .bloque {
         flex-direction: column;
