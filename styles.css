@@ -22,8 +22,9 @@ body {
     font-size: 50px;
     text-align: center;
     font-weight: bold;
+    text-decoration: underline;
     font-family: 'Times New Roman', Times, serif;
-    padding: 80px;
+    padding: 50px;
     width: 100%;
     margin: 0;
 }
@@ -104,7 +105,7 @@ body {
 
 .imagen-responsive img {
  width: 100%;
- height: auto;
+ height: 450;
  display: block;
 }
     
