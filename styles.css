@@ -138,12 +138,11 @@ body {
     position: sticky;
     top: 0;
     z-index: 100;
-
 }
 
 .texto {
     padding: 20px 5%;
-    text-align: left;
+    text-align: center;
     font-size: 1.1em;
     max-width: 100%;
     min-width: 250px;
@@ -152,7 +151,7 @@ body {
 }
 
 .texto p {
-    text-align: justify; text-align: left;
+    text-align: justify; text-align: center;
     margin: 0;
 }
 
