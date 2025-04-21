@@ -102,10 +102,12 @@ body {
     padding: 10px; background-color: aqua;
    }
 
-.imagen {
-    width: 250px;
-    height: 300px;
-    padding: 10px; background-color: aqua;
+.imagen-responsive img {
+ width: 100%;
+ height: auto;
+ display: block;
+}
+    
 }
 .descripcion {
     display: flex;
@@ -116,7 +118,7 @@ body {
 }
 
 .imagen-musica {
-    max-height: 800px;
+    max-height: 500px;
     width: 500px;
     height: 600px;
     border-radius: 10px;
