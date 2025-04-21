@@ -116,9 +116,9 @@ body {
 }
 
 .imagen-musica {
-    max-height: 400px;
-    width: 100%;
-    height: auto;
+    max-height: 800px;
+    width: 500px;
+    height: 600px;
     border-radius: 10px;
     display: flex;
     gap: 10px;
@@ -129,15 +129,15 @@ body {
 }
 
 .texto {
-    flex: 1;
-    text-align: justify;
-    max-width: 400px;
+    flex: 100%;
+    text-align: left;
+    max-width: 100%;
     min-width: 250px;
     line-height: 1.6px;
 }
 
 .texto p {
-    text-align: justify;
+    text-align: justify; text-align: left;
     margin: 0;
 }
 
